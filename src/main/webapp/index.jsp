@@ -12,7 +12,7 @@
 <OPTION value=functionaltester>Functional Tester</OPTION>
 <OPTION value=selenium>Selenium</OPTION>
 <OPTION value=selenium>Informatica</OPTION>
-<OPTION value=selenium>Jenkins</OPTION>
+
 </SELECT> </P>
 
 UserName <input type="text" id="test" name="test"title="test"  >
