@@ -11,7 +11,7 @@
 <OPTION value=loadrunner>LoadRunner</OPTION>
 <OPTION value=functionaltester>Functional Tester</OPTION>
 <OPTION value=selenium>Selenium</OPTION>
-<OPTION value=selenium>Informatica</OPTION>
+
 
 </SELECT> </P>
 
